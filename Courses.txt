@@ -1,0 +1,7 @@
+  ## TABLE OF CONTETNTS IN MACHINE LEARNING SCIENTIST WITH PYTHON 
+
+  1 Supervised Learning with Scikit Learn
+  2 Unsupervised Learning in Python
+  3 Linear Classifiers in Python 
+  4 Machine Learning with Tree Based Models in Python 
+  
